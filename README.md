@@ -16,10 +16,10 @@
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![VulnHub](https://img.shields.io/badge/VulnHub-0e0e0e?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white) 
-![OSINT](https://img.shields.io/badge/OSINT-Open%20Source%20Intel-%23007396?style=for-the-badge&logo=search&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-%23007396?style=for-the-badge&logo=search&logoColor=white)
 
 
-🎯 My main passion lies in ethical hacking and penetration testing. I'm constantly learning, practicing, and applying security techniques to real-world scenarios.  
+🎯 My main passion lies in ethical hacking and penetration testing. I'm constantly learning, practicing, and applying security techniques to real-world scenarios through CTFs.  
 
 🏅 **Certificates:**
 - SoftUni: Introduction to Cybersecutiry
