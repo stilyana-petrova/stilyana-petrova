@@ -25,17 +25,20 @@
 📜 You can find my certificates and proof of learning [here](https://github.com/stilyana-petrova/Certificates).
 
 
+
 🔭 Currently exploring:
 - OWASP Top 10
 - Web app testing with Burp Suite
 - Privilege escalation on Linux and Windows
 - Realistic attack scenarios on Hack The Box, Try Hack Me & VulnHub
 
+
 🧪 My Pentesting Workflow:
 - 🔍 Recon: Google Dorking, Nmap, Gobuster, whois, dnsdumpster
 - 🔐 Exploitation: Burp Suite, Metasploit, sqlmap
 - ⚙️ Post Exploitation: Privilege Escalation, Lateral Movement
 - 📓 Reporting: Markdown writeups, Screenshots, Mitigations
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stilyana-petrova&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
