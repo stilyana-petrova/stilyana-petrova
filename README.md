@@ -18,7 +18,7 @@
 ![VulnHub](https://img.shields.io/badge/VulnHub-0e0e0e?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white) 
 ![OSINT](https://img.shields.io/badge/OSINT-%23007396?style=for-the-badge&logo=search&logoColor=white)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-Security_Guide-orange?style=for-the-badge&logo=owasp&logoColor=white)
 
 
 
@@ -33,10 +33,10 @@
 
 
 🔭 Currently exploring:
-- OWASP Top 10
+- Reverse shell
 - Web app testing with Burp Suite
 - Privilege escalation on Linux and Windows
-- Realistic attack scenarios on Hack The Box, Try Hack Me & VulnHub
+- Labs/challenges/machines on Hack The Box, Try Hack Me & VulnHub
 
 
 🧪 My Pentesting Workflow:
