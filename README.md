@@ -40,7 +40,7 @@
 
 
 🧪 My Pentesting Workflow:
-- 🔍 Recon: Google Dorking, Nmap, Gobuster, whois, dnsdumpster
+- 🔍 Recon: Google Dorking, Nmap, dirbuster, whois, dnsdumpster
 - 🔐 Exploitation: Burp Suite, Metasploit, sqlmap
 - ⚙️ Post Exploitation: Privilege Escalation, Lateral Movement
 - 📓 Reporting: Markdown writeups, Screenshots, Mitigations
