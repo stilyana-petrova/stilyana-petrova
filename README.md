@@ -25,7 +25,7 @@
 
 🎯 My main passion lies in ethical hacking and penetration testing. I'm constantly learning, practicing, and applying security techniques to real-world scenarios through CTFs.  
 My sources for learning and practicing are: SoftUni CyberSec courses, HTB academy + machines, THM rooms + challenges.<br>
-[Here](https://github.com/stilyana-petrova/ctf-writeups) you can find my writeups about the CTFs and labs I have solved.
+[Here](https://github.com/stilyana-petrova/ctf-writeups) or on my [blog](https://medium.com/@stilyanapetrova1) you can find my writeups about the CTFs and labs I have solved.
 
 🏅 **Certificates:**
 - SoftUni: Introduction to Cybersecutiry
