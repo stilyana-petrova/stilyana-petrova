@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Penetration Testing on my own. And my major is Software Engineering.<br>💬 Ask me about: ASP.NET Core MVC, Entity Framework, C#, Linux, Pentesting.<br>⚡ Fun fact: 🎨 When I’m not coding, you’ll probably find me at the piano, strumming my guitar, playing the violin, singing, or sketching something new.
+🌱 I’m currently learning about Penetration Testing on my own. And my major is Software Engineering.<br>💬 Ask me about: ASP.NET Core MVC, C#, Linux, Pentesting.<br>⚡ Fun fact: 🎨 When I’m not coding, you’ll probably find me at the piano, strumming my guitar, playing the violin, singing, or sketching something new.
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 
 
 🎯 My main passion lies in ethical hacking and penetration testing. I'm constantly learning, practicing, and applying security techniques to real-world scenarios through CTFs.  
-My sources for learning and practicing are: SoftUni CyberSec courses, HTB academy + machines, THM rooms + challenges.
+My sources for learning and practicing are: SoftUni CyberSec courses, HTB academy + machines, THM rooms + challenges.<br>
 [Here](https://github.com/stilyana-petrova/ctf-writeups) you can find my writeups about the CTFs and labs I have solved.
 
 🏅 **Certificates:**
@@ -37,7 +37,6 @@ My sources for learning and practicing are: SoftUni CyberSec courses, HTB academ
 🔭 Currently exploring:
 - Reverse shell
 - Privilege escalation on Linux and Windows
-- Writing a report
 - Labs/challenges/machines on Hack The Box & Try Hack Me
 
 
