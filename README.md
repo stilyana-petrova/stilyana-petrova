@@ -25,8 +25,7 @@
 ![Wireless Hacking](https://img.shields.io/badge/Wireless%20Hacking-1E90FF?style=for-the-badge&logo=wifi&logoColor=white)
 ![MITM](https://img.shields.io/badge/MITM-8B0000?style=for-the-badge&logo=exchange&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white)
-
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=white)
 
 
 🎯 My main passion lies in ethical hacking and penetration testing. I'm constantly learning, practicing, and applying security techniques to real-world scenarios through CTFs.  
