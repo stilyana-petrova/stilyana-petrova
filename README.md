@@ -20,6 +20,12 @@
 ![OSINT](https://img.shields.io/badge/OSINT-%23007396?style=for-the-badge&logo=search&logoColor=white)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-orange?style=for-the-badge&logo=owasp&logoColor=white)
 ![Linux PrivEsc](https://img.shields.io/badge/Linux%20PrivEsc-E95420?style=for-the-badge&logo=shield&logoColor=white)
+![Reconnaissance](https://img.shields.io/badge/Reconnaissance-2E8B57?style=for-the-badge&logo=radar&logoColor=white)  
+![Nessus](https://img.shields.io/badge/Nessus-009CDE?style=for-the-badge&logo=tenable&logoColor=white)  
+![Wireless Hacking](https://img.shields.io/badge/Wireless%20Hacking-1E90FF?style=for-the-badge&logo=wifi&logoColor=white)  
+![MITM](https://img.shields.io/badge/MITM-8B0000?style=for-the-badge&logo=exchange&logoColor=white)  
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white)  
 
 
 
