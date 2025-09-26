@@ -26,8 +26,6 @@
 ![MITM](https://img.shields.io/badge/MITM-8B0000?style=for-the-badge&logo=exchange&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
 
 
 🎯 My main passion lies in ethical hacking and penetration testing. I'm constantly learning, practicing, and applying security techniques to real-world scenarios through CTFs.  
