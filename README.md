@@ -15,7 +15,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![VulnHub](https://img.shields.io/badge/VulnHub-0e0e0e?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white) 
 ![OSINT](https://img.shields.io/badge/OSINT-%23007396?style=for-the-badge&logo=search&logoColor=white)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-orange?style=for-the-badge&logo=owasp&logoColor=white)
