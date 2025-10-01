@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Penetration Testing on my own. And my major is Software Engineering.<br>💬 Ask me about: ASP.NET Core MVC, C#, Linux, Pentesting.<br>⚡ Fun fact: 🎨 When I’m not coding, you’ll probably find me at the piano, strumming my guitar, playing the violin, singing, or sketching something new.
+🌱 I’m currently learning about Penetration Testing on my own. And my major is Software Engineering.<br>💬 Ask me about: ASP.NET Core MVC, C#, Linux, Pentesting.<br>⚡ Fun fact: When I’m not coding, you’ll probably find me at the piano, strumming my guitar, playing the violin, singing, or sketching something new.
 
 
 ## 🌐 Socials:
